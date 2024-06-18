@@ -10,7 +10,6 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 - 🌱 I’m currently learning advanced machine learning techniques and big data tools.
 - 👯 I’m looking to collaborate on projects that intersect data engineering and data science.
 - 🤔 I’m looking for help with mastering deep learning frameworks.
-- ⚡ Fun fact: I love analyzing traffic patterns and how they impact city planning!
 
 ## 🛠 Skills
 
