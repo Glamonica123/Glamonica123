@@ -22,7 +22,7 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherrepository)](https://github.com/yourusername/anotherrepository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?yourusername=Glamonica123&repo=ET_Predictor)](https://github.com/Glamonica123/ET_Predictor)
 
 ## 📫 Contact Me
 
