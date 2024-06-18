@@ -23,7 +23,7 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Glamonica123&repo=ET_Predictor)](https://github.com/Glamonica123/ET_Predictor)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Glamonica123&repo=ET_Predictor&show_owner=true)](https://github.com/Glamonica123/ET_Predictor)
 ## 📫 Contact Me
 
 - LinkedIn: [gustavo-lamonica](https://linkedin.com/in/gustavo-lamonica)
