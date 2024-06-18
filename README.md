@@ -17,6 +17,7 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 - **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow
 - **Data Visualization**: PowerBI, Matplotlib, Seaborn 
 - **Tools**: Git, Docker, Jupyter, Tableau
+  
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Glamonica123&layout=compact&hide=html,css&langs_count=6)
 ## 📌 Pinned Repositories
 
