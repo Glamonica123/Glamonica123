@@ -26,5 +26,6 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 
 - LinkedIn: [gustavo-lamonica](https://linkedin.com/in/gustavo-lamonica)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Glamonica123&layout=compact&hide=html,css&langs_count=6
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Glamonica123&layout=compact&hide=html,css&langs_count=6)]
+
 
