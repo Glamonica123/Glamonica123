@@ -8,22 +8,17 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 
 - 🔭 I’m currently working on data science projects that leverage my analytical skills from my engineering background.
 - 🌱 I’m currently learning advanced machine learning techniques and big data tools.
-- 👯 I’m looking to collaborate on projects that intersect civil engineering and data science.
+- 👯 I’m looking to collaborate on projects that intersect data engineering and data science.
 - 🤔 I’m looking for help with mastering deep learning frameworks.
-- 💬 Ask me about transitioning from engineering to data science.
-- 📫 How to reach me: [Email]
 - ⚡ Fun fact: I love analyzing traffic patterns and how they impact city planning!
 
 ## 🛠 Skills
 
 - **Languages**: Python, R, SQL
 - **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Data Visualization**: PowerBI, Matplotlib, Seaborn, 
 - **Tools**: Git, Docker, Jupyter, Tableau
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📌 Pinned Repositories
 
