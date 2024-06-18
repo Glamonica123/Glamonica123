@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gustavo Lamonica 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
@@ -6,7 +6,7 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on data science projects that leverage my engineering background.
+- 🔭 I’m currently working on data science projects that leverage my analytical skills from my engineering background.
 - 🌱 I’m currently learning advanced machine learning techniques and big data tools.
 - 👯 I’m looking to collaborate on projects that intersect civil engineering and data science.
 - 🤔 I’m looking for help with mastering deep learning frameworks.
@@ -32,7 +32,5 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter](https://twitter.com/yourprofile)
-- Email: [Your Email](mailto:youremail@example.com)
+- LinkedIn: [gustavo-lamonica](https://linkedin.com/in/gustavo-lamonica)
 
