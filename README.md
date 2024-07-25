@@ -24,7 +24,6 @@ I'm a Civil Engineer turned Data Science enthusiast, currently diving deep into 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Glamonica123&repo=ET_Predictor&show_owner=true)](https://github.com/Glamonica123/ET_Predictor)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Glamonica123&repo=Projects&show_owner=true)]
-(https://github.com/Glamonica123/Projects)
 
 ## 📫 Contact Me
 
